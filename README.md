@@ -17,7 +17,7 @@ Fazer download do repositório e rodar os comandos abaixo
 
 ## Screenshots
 
-![App Screenshot](/relative/screens/to/img.jpg?raw=true)
+![App Screenshot](/master/screens/01.png?raw=true)
 
 
     
