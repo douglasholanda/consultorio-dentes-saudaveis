@@ -1,0 +1,12 @@
+footer {
+    background-color: #1d3371;
+    position: relative;
+    top: 75px;
+    left: 0;
+}
+
+.footer {
+    color: white;
+    margin: 0;
+    padding: 15px 0;
+}

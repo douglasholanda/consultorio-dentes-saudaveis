@@ -1,0 +1,146 @@
+.especialidades {
+    position: relative;
+    top: 75px;
+    background-color: #1d3371;
+    color: white;
+    padding: 25px 0 30px 0;
+}
+
+.especialidades h1 {
+    font-size: 38px;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #f6bf29;
+    margin: 0;
+    font-weight: 300;
+}
+
+.especialidades b {
+    font-weight: 500;
+}
+
+.especialidades h3 {
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.especialidades ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.especialidades li {
+    margin: 15px 65px;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.especialidades li img {
+    margin-right: 8px;
+}
+
+.container-aparelho {
+    width: 80%;
+    margin: 120px auto 0 auto;
+}
+
+.container-aparelho h2 {
+    font-weight: 200;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.container-aparelho h2 b {
+    font-weight: 500;
+}
+
+.container-aparelho img {
+    width: 85%;
+}
+
+.container-infos {
+    display: flex;
+    width: 90%;
+    margin: 30px auto 60px auto;
+}
+
+.box-infos {
+    width: calc(100% / 3);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    box-sizing: border-box;
+    padding: 35px;
+}
+
+.box-infos h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.box-infos p {
+    text-align: left;
+}
+
+.container-clientes {
+}
+
+.container-clientes h2 {
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+}
+
+.container-clientes h2 b {
+    font-weight: 500;
+}
+
+.box-clientes {
+    display: flex;
+    width: 90%;
+    margin: 0 auto 30px auto;
+}
+
+.box-cliente {
+    width: calc(100% / 3);
+    padding: 0 20px;
+}
+
+.box-cliente img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.box-cliente h5 {
+    font-weight: normal;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.box-cliente p {
+    font-size: 16px;
+}
+
+.button-area {
+    margin: 55px 0 10px 0;
+}
+
+.button {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    background-color: #1d3371;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 15px 20px;
+}

@@ -1,0 +1,48 @@
+.container-horarios {
+    margin-top: 120px;
+}
+
+.info-container {
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.info-container b {
+    font-weight: 500;
+}
+
+.text-container {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.container-medicos {
+    width: 90%;
+    display: flex;
+    margin: 35px auto;
+    justify-content: space-around;
+}
+
+.box-medico {
+    width: (100%/3);
+}
+
+.box-medico img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.box-medico h5 {
+    font-weight: normal;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.container-localizacao {
+    margin-top: 50px;
+}
