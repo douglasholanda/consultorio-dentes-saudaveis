@@ -17,7 +17,7 @@ Fazer download do repositório e rodar os comandos abaixo
 
 ## Screenshots
 
-![App Screenshot](https://raw.github.com/{douglasholanda}/{consultorio-dentes-saudaveis}/{master}/{screens/01.png})
+![App Screenshot](https://raw.github.com/douglasholanda/consultorio-dentes-saudaveis/master/screens/01.png)
 
 
     
